@@ -13,7 +13,7 @@ I'm a **Software Developer** passionate about building efficient and scalable ap
 - **Backend**: Node.js, Express, NestJS
 - **Frontend**: React, Next.js
 - **Databases**: MongoDB, PostgreSQL, MySQL
-- **Tools & Others**: Git, Docker, REST APIs, Postman
+- **Tools & Others**: Git, REST APIs, Postman
 
 ### 📚 Featured Projects
 - [**Cost Manager API**](https://github.com/Astewuol-Tsagaow/REStful-Web-Services) - A backend service for managing financial expenses.
