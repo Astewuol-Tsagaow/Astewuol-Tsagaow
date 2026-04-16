@@ -9,15 +9,14 @@ I'm a **Software Developer** passionate about building efficient and scalable ap
 - 🛠️ Passionate about Clean Code & Best Practices
 
 ### 📝 My Tech Stack
-- **Languages**: JavaScript, TypeScript
-- **Backend**: Node.js, Express, NestJS
+- **Languages**: JavaScript
+- **Backend**: Node.js, Express
 - **Frontend**: React, Next.js
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools & Others**: Git, REST APIs, Postman
 
 ### 📚 Featured Projects
 - [**Cost Manager API**](https://github.com/Astewuol-Tsagaow/REStful-Web-Services) - A backend service for managing financial expenses.
-- [**E-commerce System**] - A scalable wholesale perfume management system (in progress).
 
 ### ✨ Connect with Me
 - **GitHub**: [@Astewuol-Tsagaow](https://github.com/Astewuol-Tsagaow)
