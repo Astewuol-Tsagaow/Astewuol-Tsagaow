@@ -11,7 +11,7 @@ I'm a **Software Developer** passionate about building efficient and scalable ap
 ### 📝 My Tech Stack
 - **Languages**: JavaScript
 - **Backend**: Node.js, Express
-- **Frontend**: React, Next.js
+- **Frontend**: React
 - **Databases**: MongoDB, PostgreSQL, MySQL
 - **Tools & Others**: Git, REST APIs, Postman
 
